@@ -1,3 +1,3 @@
 # Simon Says Game
 
-My First Projects
+My First Projects HTML CSS JS.
